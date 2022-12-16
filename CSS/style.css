@@ -1,0 +1,183 @@
+body{
+    background-color: white;
+    font-family: "Lato', sans-serif";
+}
+
+header{
+    background-color: white;
+    height: 288px;
+    max-height: 288px;
+    background-position: center;
+}
+
+img .Logo{
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    width: 25%;
+}
+
+.donatebutton{
+    font-size: 15;
+    font-weight: bold;
+    color: white;
+    background-color: #396A4A;
+    text-align: center;
+    height: 25px;
+    width: 100px;
+}
+
+.searchbutton{
+    font-size: 15;
+    font-weight: bold;
+    color: white;
+    background-color: #396A4A;
+    text-align: center;
+    height:25px;
+    width:100px;
+}
+
+.navbar{
+    background-color: #E5F2E6;
+    height: 50px;
+    max-height:50px;
+    align-content: row;
+}
+
+.navbarbuttons{
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+    text-align:center;
+    display: block;
+}
+
+.leftsidenavbar{
+    background-color: #E5F2E6;
+    height: 1024px;
+}
+
+ul .leftsidenavbar{
+    height: 374px;
+}
+
+li .leftsidenavbar{
+    font-size: 25.2px;
+    font-weight: bold;   
+}
+
+.missionstatement{
+    color: #396A4A;
+    font-weight: 800;
+    font-size: 75.6px
+}
+
+img .main{
+    display: blocl;
+    margin-left:0;
+    margin-right: 0;
+    width: 25%;
+}
+
+p .main{
+    color: black;
+    font-weight: 600; 
+    font-size: 25.2px;
+}
+
+.newsletter{
+    background-color:#F0F2E8;
+}
+
+h2 .newsletter{
+    font-size: 46.2px;
+    font-weight: 800;
+    color: #396A4A; 
+}
+
+p .newsletter{
+   color: #396A4A;
+   font-weight:600;
+   font-size:25.2px;
+}
+
+form{
+    background-color: white;
+}
+
+#id{
+    font-size: 200;
+    color: black;
+}
+
+.signupbutton{
+    font-size: 400;
+    color: #F7EDDA;
+    background-color:#396A4A
+}
+
+footer{
+    background-color: #396A4A;
+}
+
+h3 .q1{
+    font-size: 21px;
+    font-weight:900;
+    color: white;
+}
+
+p .q1{
+    font-size: 18.9px;
+    font-weight: 400;
+    color: white;
+}
+
+img .q2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+h3 .q3{
+    font-size: 21px;
+    font-weight:900;
+    color: white;
+}
+
+p .q3{
+    font-size: 18.9px;
+    font-weight: 400;
+    color: white;
+}
+
+.social-media-icons{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+h3 .q4{
+    font-size: 21px;
+    font-weight:900;
+    color: white;   
+}
+
+img .q4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+li .q5{
+    font-size: 18.9px;
+    font-weight: 400;
+    color: white;  
+}
+
+p .q5{
+    font-size: 18.9px;
+    font-weight: 400;
+    color: white;
+}
